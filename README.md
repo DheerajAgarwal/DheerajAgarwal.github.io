@@ -1,4 +1,4 @@
-# Practical Machine Learning
+# HTML Pages
 
 This contains the compiled HTML page for the practical Machine Learning Assignment and The Milestone report for the Capstone.
 
